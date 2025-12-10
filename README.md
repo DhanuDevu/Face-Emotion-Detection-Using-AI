@@ -2,7 +2,7 @@
 Face emotion detection using AI
 <br>
 Author Dhanush H N
-It will detect 7 diffrent emotion 
+It will detect 7 diffrent emotion **Happy, Sad, Angry, Neutral, Surprise, Fear, Disgust**
 
 # Face Emotion Detection Using AI
 
