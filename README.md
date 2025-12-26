@@ -12,7 +12,7 @@ The project runs locally using Python, OpenCV, and TensorFlow/Keras.
 ---
 
 ## 📌 Features
-- Detects emotions such as **Happy, Sad, Angry, Neutral, Surprise, Fear, Disgust**
+- Detects emotions such as **Happy, Sad, Angry, Neutral, Surprise, Fear, Disgust**    
 - Works with **images** or **real-time webcam**
 - Lightweight and easy to run
 - Uses a pre-trained CNN model
