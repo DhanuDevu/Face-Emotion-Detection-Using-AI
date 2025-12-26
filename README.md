@@ -19,7 +19,7 @@ The project runs locally using Python, OpenCV, and TensorFlow/Keras.
 
 ---
 
-## 🚀 How to Run the Project (Step-by-Step)
+## 🚀 How to Run the Project (Step-by-Step)  
 
 ### **1️⃣ Install Python**
 Make sure Python **3.8 – 3.11** is installed.
