@@ -30,7 +30,7 @@ python --version
 
 ## install Dependies
 pip install --upgrade pip
-pip install -r requirements.txt
+pip install -r requirements.txt                          
 
 ## How to Run
 ...python main.py
