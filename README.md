@@ -16,7 +16,7 @@ The project runs locally using Python, OpenCV, and TensorFlow/Keras.
 - Lightweight and easy to run
 - Uses a pre-trained CNN model
 
----
+---   
 
 ## 🚀 How to Run the Project (Step-by-Step)  
 
