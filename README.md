@@ -10,7 +10,7 @@ This project detects human emotions from images or live webcam feed using a trai
 The project runs locally using Python, OpenCV, and TensorFlow/Keras.  
 
 
-## 📌 Features
+## 📌 Features   
 - Detects emotions such as **Happy, Sad, Angry, Neutral, Surprise, Fear, Disgust**    
 - Works with **images** or **real-time webcam**  
 - Lightweight and easy to run
