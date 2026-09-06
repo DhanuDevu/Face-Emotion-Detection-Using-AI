@@ -8,7 +8,7 @@ It will detect 7 diffrent emotion **Happy, Sad, Angry, Neutral, Surprise, Fear, 
 
 This project detects human emotions from images or live webcam feed using a trained deep learning model (CNN).  
 The project runs locally using Python, OpenCV, and TensorFlow/Keras.       
-
+  
 
 ## 📌 Features   
 - Detects emotions such as **Happy, Sad, Angry, Neutral, Surprise, Fear, Disgust**    
