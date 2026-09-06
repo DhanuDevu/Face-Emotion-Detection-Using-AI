@@ -1,4 +1,4 @@
-# Face-emotion-tutorial      
+ # Face-emotion-tutorial      
 Face emotion detection using AI
 <br>
 Author Dhanush H N
@@ -7,7 +7,7 @@ It will detect 7 diffrent emotion **Happy, Sad, Angry, Neutral, Surprise, Fear, 
 # Face Emotion Detection Using AI    
 
 This project detects human emotions from images or live webcam feed using a trained deep learning model (CNN).  
-The project runs locally using Python, OpenCV, and TensorFlow/Keras.    
+The project runs locally using Python, OpenCV, and TensorFlow/Keras.       
 
 
 ## 📌 Features   
